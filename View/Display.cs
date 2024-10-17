@@ -7,7 +7,7 @@ using Vakanciq.Model;
 
 namespace Vakanciq.View
 {
-    internal class Display
+    public class Display
     {
         public double GetBudget()
         {

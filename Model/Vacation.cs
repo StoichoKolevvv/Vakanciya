@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Vakanciq.Model
 {
-    internal class Vacation
+    public class Vacation
     {
         private double budget;
         private string season;
