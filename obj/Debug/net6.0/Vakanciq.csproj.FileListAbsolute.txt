@@ -1,0 +1,15 @@
+D:\PROGRAMS\Vakanciq\obj\Debug\net6.0\Vakanciq.csproj.AssemblyReference.cache
+D:\PROGRAMS\Vakanciq\obj\Debug\net6.0\Vakanciq.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMS\Vakanciq\obj\Debug\net6.0\Vakanciq.AssemblyInfoInputs.cache
+D:\PROGRAMS\Vakanciq\obj\Debug\net6.0\Vakanciq.AssemblyInfo.cs
+D:\PROGRAMS\Vakanciq\obj\Debug\net6.0\Vakanciq.csproj.CoreCompileInputs.cache
+D:\PROGRAMS\Vakanciq\bin\Debug\net6.0\Vakanciq.exe
+D:\PROGRAMS\Vakanciq\bin\Debug\net6.0\Vakanciq.deps.json
+D:\PROGRAMS\Vakanciq\bin\Debug\net6.0\Vakanciq.runtimeconfig.json
+D:\PROGRAMS\Vakanciq\bin\Debug\net6.0\Vakanciq.dll
+D:\PROGRAMS\Vakanciq\bin\Debug\net6.0\Vakanciq.pdb
+D:\PROGRAMS\Vakanciq\obj\Debug\net6.0\Vakanciq.dll
+D:\PROGRAMS\Vakanciq\obj\Debug\net6.0\refint\Vakanciq.dll
+D:\PROGRAMS\Vakanciq\obj\Debug\net6.0\Vakanciq.pdb
+D:\PROGRAMS\Vakanciq\obj\Debug\net6.0\Vakanciq.genruntimeconfig.cache
+D:\PROGRAMS\Vakanciq\obj\Debug\net6.0\ref\Vakanciq.dll
